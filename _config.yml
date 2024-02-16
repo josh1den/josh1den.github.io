@@ -1,5 +1,5 @@
 title: Josh Iden
-#logo: <insert img filepath here>
-#description: text below image
+logo: /assets/img/portrait_circle.png
+description: Data Analytics & Business Intelligence
 show_downloads: true
 theme: jekyll-theme-minimal
