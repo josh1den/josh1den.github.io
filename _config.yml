@@ -1,5 +1,44 @@
-title: Josh Iden
-logo: /assets/img/portrait_circle.png
+#title: Josh Iden
+#logo: /assets/img/portrait_circle.png
 #description: Data Analytics & Business Intelligence
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
+
+# Site Author
+author:
+  name             : "Josh Iden"
+  avatar           : /assets/img/portrait_circle.png
+  bio              : "Data Analyst & Business Intelligence"
+  location         : "Philadelphia, PA USA"
+  employer         :
+  pubmed           : 
+  googlescholar    : 
+  email            : 
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "josh1den"
+  google_plus      :
+  keybase          :
+  instagram        : 
+  impactstory      : 
+  lastfm           :
+  linkedin         : "joshiden"
+  medium           :  
+  orcid            :  
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : 
+  steam            :
+  tumblr           :
+  twitter          :  
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
