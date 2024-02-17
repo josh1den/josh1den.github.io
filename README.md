@@ -1,7 +1,32 @@
-# Data Analytics & Business Intelligence 
+Freelancer Jekyll theme  
+=========================
 
-#### Technical Skills: Python, R, SQL, Power BI, Tableau
+Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
 
-## Education 
-- M.S., Data Science | City University of New York (_December 2023_)
-- B.A., Psychology | Stony Brook University (_May 2020_)
+## How to use
+ - Place a image in `/img/portfolio/`
+ - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
+ - Create posts to display your projects. Use the follow as an example:
+```txt
+---
+layout: default
+modal-id: 1
+date: 2020-01-18
+img: cabin.png
+alt: image-alt
+project-date: January 2020
+client: The Client
+category: Web Development
+description: The description of the project
+
+---
+```
+
+## Demo
+View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-theme)
+
+## Screenshot
+![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+
+---------
+For more details, read the [documentation](http://jekyllrb.com/)
